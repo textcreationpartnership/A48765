@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all friends everywhere to whom this may concern, to go abroad among them to be read in the fear of God by them</title>
+            <author>Livingstone, Patrick, 1634?-1694.</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48765</idno><idno type="EEBO-CITATION">99827380</idno>
+  <idno type="VID">31798</idno>
+  <idno type="EEBO-PROQUEST">2240894255</idno>
+  
+            <idno type="STC">Wing L2606</idno>
+            <idno type="STC">ESTC R215526</idno>
+            <idno type="PROQUEST">99827380</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827380e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1891:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all friends everywhere to whom this may concern, to go abroad among them to be read in the fear of God by them</title>
+                  <author>Livingstone, Patrick, 1634?-1694.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end: Your friend Patrick Livingstone. From the prison in Newgate the 7th. of the 10th month 1670.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:31798:1"/>
+            <head>To all friends every where to whom this may concern, to go abroad a<g ref="char:EOLhyphen"/>mong them to be <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead in the fear of God by them.</head>
+            <p>DEar Friends, all stand in the power of God, for therein you shall be able to beat such a testimony as shall truly honor God, and fill your hearts with true peace, for there is not a way whereby you can glorifie God, and feel his joy, and peace, but only, by standing in his power, which is a meek and innocent power, which cannot hurt a<g ref="char:EOLhyphen"/>ny, but sincerely loves all that be in it, and travels for the gathering of such as are not in it, that their minds may come to be acquainted with it, wherein, there is no cause of complaining because of want of power, for all they that stand in the power of God, they are un<g ref="char:EOLhyphen"/>feignedly innocent, and they have power over the devil, and all his instruments, their innocency is not feigned, neither is it pretence, but it is unfeigned and real in the presence of God, why then should such be dismayed, or cast away their confidence, nay, but as they stand in the power of God, they cannot be dismaid nor afraid because of the threatnings of men, whose breath is in their nostrils, who are ignorant of the power of God, their threatnings, rage and fury cannot disquiet those that in the power of God stand, lot it not trouble any that have the least love to truth, because it looks like to be a suffering time, and is so, and is like to increase, have you not read of the valour of the Saints in former Ages, how they were valiant for the truth, if you say, what made them valiant? What sustained them, in all their deep tryals and sufferings? are there any deeper tryals to be past through then what the Saints of old passed through, and what upheld them? do ye not read, what they past through, in some things, yea it was not all their sufferings then, and I may truly say, its but a little of their sufferings now which can be declared, but they past through sufferings undeclareable, unuttera<g ref="char:EOLhyphen"/>ble, and what sustained them in all these, nothing but the power of God, they stood in the power of God, that was their stay, that which sustained there minds: and carried them through all that was in<g ref="char:EOLhyphen"/>flicted
+<pb facs="tcp:31798:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:31798:2"/>
+               <pb n="2" facs="tcp:31798:3"/>upon them, by those that persecuted them, and in the power of the Lord they obtained victory through patience, and sufferings, and not with any carnal weapon, or any carnal force, the carnal mind leads to carnal weapons, the spiritual mind is life and peace with God, wherein they that are in it makes war against all that which is carnal within and without, and not without success, for they overcome, it is the Lamb and his Followers that obtains the victory, mark, they who follow the Lamb, who be in his Life, power and patience, have the victory over the Dragon, and his Followers, if you would have this victory, you must come into the Lambs life and innocency, not into a pretence, or feigned appea<g ref="char:EOLhyphen"/>rance of innocency, but into that which is real, in the presence of God, and this being witnessed in verity, the pretence to it makes it not void, but such as are really and unfeignedly therein, do see over all pretenders thereunto, and with such they have no Unity, but a<g ref="char:EOLhyphen"/>gainst such we stand witnesses, as also we do witness against all open gross iniquity, which is apparent but the zeal of the faithful in all ages hath been fervent against, that which works in a mistery, so my dear friends, now it must appear who are really the Followers of the Lamb, and who fol<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow or creep in for by ends, and pretences, the Lord is severing and distinguishing between them that really are given up to be his, and all they have to the loss for his truth, and their own lives i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it be called for, good is the Lord to them that are wholly given up without any reservation, but thou that hath in thy heart a reservation, its in vain for thee to think to cover, with a<g ref="char:EOLhyphen"/>ny thing or under any pretence whatsoever, thou cannot be hid, thou will grant that the Lord is better nor all, and all is to be resigned, and yet it is not so with thee, and there is not a willingness that it should be so with thee, but thou hast a reservation in thy heart, this worlds wisdom lyes near thee, and therein thou goes about to save and hast a reserve, and yet art not willing any should think so of thee, and something sayes Master <hi>save thy self,</hi> but self must perish, and that is self that goes about to save, &amp; reserve, this is that which stands in the way of the true power, &amp; victory, such I say cannot be hid, there is an eye that sees such, and that spirit is not that which
+<pb n="3" facs="tcp:31798:3"/>can carry through in this day of tryal, the Lord is a beholder of thy heart, thou hast nothing outwardly but what the Lord hath given thee, and art thou right in the sight of God who art afraid of loosing it, which so prevails within thee, as to make thee go about to seek by ways, to save, and which draws thee back and stops thee from be<g ref="char:EOLhyphen"/>ing valiant for the truth, but makes thee secretly daunted in thy spirit, so that thy courage begins to fail, and the love of the world creeps over thee, and yet some shame is in thee; thou would not have it appear; and yet thou cannot hide it, but the matter evidently appears to the single hearted, such might long have covered them<g ref="char:EOLhyphen"/>selves, if this day of tryal had not come, and this day is come, and coming to manifest, (I say) who are the Lords and who are not his, and art thou his? Consider it art thou thy self resigned to him, art thou made willing to give up thy life for his sake, and yet dost thou fear to loose outward things for his sake, if thou canst not part with these, and give up these, how wilt thou give up thy self, thy life to be laid down for him, O all friends stand fast in the power of God, and faint not, for it shall be and is well with you that abide faith<g ref="char:EOLhyphen"/>full, you overcome and shall overcome as you stand in the power of God, and all you that would be reputed Followers of the Lamb and yet do shrink, and go about in your carnal prudence, wisdom, and policy, to save that which you are to give up, have a care what ye do, O sink down and consider the love of God, namely his good gift; his holy spirit given you to proffit withall, is not this great love, in that he hath put his spirit within you, by which you may search your hearts, by which you may proffit, to the purifying o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your own hearts, and helping of others if ye be faithful, therefore examine your hearts with the light of Christ in you, for this is a trying time, and a good time to them that obey the truth for they shine, as stars in Gods Firmament, their very enemies shall be made to confess that such are the faithful people of God e're all be done is there not something in the world that can make a distinction, be<g ref="char:EOLhyphen"/>tween right <hi>Quakers</hi> and such as they call Mongrils, or not righ<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is not the suffering of spoyling of goods or any outward thing<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the righteous look at this day, where there is not a spirit born<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="4" facs="tcp:31798:4"/>up in the mind that can do all these things chearfully, as to the Lord freely offering up all without any secret reserve of grudging the time, or afterwards, ah friends, its not a small thing, in reality from the heart, to love enemies, and pray for them that spoil your goods, and beat you and abuse you, and yet I believe many are so given up, and have such a testimony upon their Spirits before God, that they suffer all these without a desire of evil towards them that so use them, but it would be greater joy to them then all earth<g ref="char:EOLhyphen"/>ly things to see the conversion of their enemies, that is it their Souls prey, for notwithstanding you be evilly requited by them, for whose souls you travel who judge your innocency to be but feign<g ref="char:EOLhyphen"/>ed and pretence, though it be indeed reall, towards all your ene<g ref="char:EOLhyphen"/>mies, insomuch that not withstanding of all the hard usage, by them done unto you, ye can from your hearts freely forgive them, and pray for them, and yet they will not believe it to be so on your part, but do judge otherwise of you, that it is not so with you, but that you would help your selves with carnal force and many other false suppositions have they in their minds against you, but dear Friends, since I heard of your sufferings, this hath oft stood up in my heart, what is all their surmizes concerning us this day, so long as we find our selves in the presence of God to be innocent con<g ref="char:EOLhyphen"/>cerning those things which they charge us with, is not this great in<g ref="char:EOLhyphen"/>couragement on your part, may not you be bold in the sight of your persecutors, who charge you with being guilty of what you are realy innocent, doth not this good boldness, incouragement, to stand fast in your innocency, &amp; i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you suffer yet more abundantly as evil do<g ref="char:EOLhyphen"/>ers; &amp; as deceivers in there esteem, yet not being so in the esteem of God, but feeling the Scriptures fulfilled in you, namely the wit<g ref="char:EOLhyphen"/>nessing of the witness or testimony in your spirits that ye are his followers, who is the true and living God, who are no otherwise judged of or dealt with by the World now, then formerly the world judged of and dealt with Christ and his Followers and still <hi>I</hi> af<g ref="char:EOLhyphen"/>firm that the highest pretences to this doth not make void the least degree attained to, in the truth, but that is truly able, and all in it,
+<pb n="5" facs="tcp:31798:4"/>to judge all pretences, so therefore all my dear and faithful Friends, <hi>I</hi> say now is the day wherein the Lord is manifesting his who for all this World may not shrink nor give way to the adversary, O stand your ground, stand in the power of God, they cry to you now, that ye will keep your own houses and say, if you do so they will not meddle with you, O Friends this is but pretence, for if they could bring us that length as they shall never be able to bring to that, they would not be content with that, but they would also strive to have you perfectly back into all their Worships, customes, fashions, and spirit also from which they flow, but my dear friends, feel your minds stayed in the power of God, and never heed there threatnings, let neither threatnings nor flatteries, draw you from your place in the innocent power of God, but mind all to feel the keeping down of all thoughts of revenge, and all desire of evil a<g ref="char:EOLhyphen"/>gainst them that persecute you, for Charity thinks no ill, it bears no envy, but bears all, and indures all, and they that be truly in the Charity they are found in Christs Doctrine, which sayeth <hi>love one another,</hi> so my dear Friends love one another, and that ye may un<g ref="char:EOLhyphen"/>feignedly love one another, love the truth in your own bearts, and that you may have unity one with another, feel your unity with the truth in your own hearts, that from your hearts in godly sin<g ref="char:EOLhyphen"/>cerity you may serve one another in love unfeigned, and then you will be fully able to love enemies, and to pray for enemies, and so fulfill Christs doctrine, and if you sincerely. love one ano<g ref="char:EOLhyphen"/>ther, and abide in Unity with the truth in your hearts and one with another, then are you fastned and knit together, and you are they that can stand for God, in this day, and the pretences of pretenders shall not be able to make vold your testimony for the Lord this day, your name and memoriall shall indure to ages to come, who stand in the power of God but all who profess the truth, and feels not its living vertue in their minds, and have a reserve of earth in their hearts, and cannot give up with the earth, how will they give up themselves? Nay they cannot, and the cause why the earth
+<pb n="6" facs="tcp:31798:5"/>is not under their Feet, but is in their hearts in the love of it and with it cannot part, the cause of this is, because they are not fully one, not ever were fall one with the truth in their own hearts, but an earthly spirit was secretly alive in them covered over with a profession of truth, and so were never fully sanctified, and now the tryal is come, to manifest them that are given up not only to the l<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss of all they possess, in this World, but have given up a greater matter then all the world to them, namely their own lives if the Lord shall call for the same, so they that are not given up themselves can never freely give up any thing they possess with a willing mind, this day of tryal doth good, it minifests those that loves this world better the. Christ, but some may say, <hi>is there any so mad as to love this World better the<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christ?</hi> Yes, there is such a madness now a d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys, and darkness is over their hearts that cannot see it, first con<g ref="char:EOLhyphen"/>sider, what stir has been among the several professors in these nati<g ref="char:EOLhyphen"/>ons how have they in words cryed up Christ and his Followers, for their sufferings, and how have they cryed against their persecutors, and now the Lord is come to tryal if this be real, and O what flock<g ref="char:EOLhyphen"/>ing has been, in this little while of calm, but now a storm is come, and now they seek for holes and corners, and creep in secret, and yet will say they love Christ above all, but though in words they con<g ref="char:EOLhyphen"/>fess so, yet there work sayes another thing, <hi>what means all this car<g ref="char:EOLhyphen"/>nal policy and prudence, and creeping into private with there meetings, doth not this show that there is guilt, and that they, and what they possess are not given up for Christ, for if they loved Christ above all, then the less of what they have in this World, neither any other suffering would be able to stop them from an open and publick testimony</hi> for Christ, (we called by the World <hi>Quakers</hi>) have expected no other con<g ref="char:EOLhyphen"/>cerning them, and our expectation have not failed us but is now made appear to be so, but is not this spirit to be found among or in any that haue or do profess themselves to be one with us <hi>(master save thyself,)</hi> is there something that would save self, it cannot be hid, it will appear, no cover can hide it in this day: but still I affirm though some such there may be, and is, yet that no more makes void the reallity of them that are truly resigned now, then
+<pb n="7" facs="tcp:31798:5"/>
+               <hi>Demas</hi> his forsaking of <hi>Paul</hi> and cleaving to this present World, did make void <hi>Paul</hi> and his Brethrens real resignation of all, you will say <hi>Paul</hi> and the rest were real notwithstanding <hi>Dem as</hi> his forsa<g ref="char:EOLhyphen"/>king of him, so are the single hearted this day who have fully counted the cost, and in their hearts given up all, so let every one beware of this spirit that would save self, this spirit may lye near and doth lye near to tempt even the righteous, and will creep in if the watch be not kept, O master save thy self it will come creeping in with a suggestion within thee to save self, and to forbear meetings, O its an evil time, Christian prudence, and wisdom is good, they will fine me twenty pounds if I have a meeting in my house, they will at last leave me nothing, and what shall I do with my wife and my family? and here the creeping Serp<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt creeps upon his belly to de<g ref="char:EOLhyphen"/>ceive, until he get in by peece and peece, and then he'l begin to be bold and brazen-faced, and stand up to plead for his Kingdom, but I know there are many and not a few that stands so in the power of God, insomuch that he is chained down and hath no power to pre<g ref="char:EOLhyphen"/>vail, but his suggesting shut quite out, but some there may be that may lend an ear to his suggesting, that would not have it outwardly known that such a thing were in their hearts, but yet he being let in a little, he creeps further until he comes in some measure to shew himself and seek a cover for himsel<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, O is it not good to be pru<g ref="char:EOLhyphen"/>dent, is it good to calf our selves upon sufferings, when there is no need for it, and here master save thy self, creeps in, but I say it is good to be prudent, and not to cast our selves upon sufferings where there is no need, but the Lord rebuke thee thou creeping de<g ref="char:EOLhyphen"/>ceitful spirit who would cover thy self under this pretence, for now the day is come that who will live Godly must suffer persecution, and who will depart from iniquity must be made a prey of by the World, and this day manifests them that have not a reservation in their hearts, but are the Lords freely given up in obedience to his holy truth by it to be guided in faithfulness to keep their meetings together, intending not another thing but to obey the Lord and feel his power and presence among them, this is the good prudence and
+<pb n="8" facs="tcp:31798:6"/>wisdom, and if for this s<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mple, honest intent and practice any more shall be <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poiled, (as many have been) of there outward things the Lord will give a hundred fold, the Lord is the everlasting portion of the faith <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> such thā I never want, that which is good for them to have, notwithstanding the single hearted do not approve of rasnness, or of ostentation or of <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urning into things to be seen and to have a name, that is not, to stand, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er can it <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d, but a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dear friends mind the tru<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h in your hearts s<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mply o<g ref="char:EOLhyphen"/>bey the truth for its own sake, not minding what ye may suffer for the same, keep your meetings together, in the feeling of that, in which ye can be able to forgive your enemies, its a weighty thing freely from the heart to forgive enemies, and not to desire evil in your hearts against them, but all wait to feel that in your hearts, that thinks not evil against them, nei<g ref="char:EOLhyphen"/>ther desires evil against them, still I affirm that the pretence to this makes not void the reality where it is, and it that be seen that would beget a desire of evil or revenge, against those that abuse you, ah beware of it, the Law of Christ is in our hearts, where the Law of man cannot lay hold, yet the Law of Christ as thou minds it, will let thee see the murderer within, the ground of all hatred, and if they from a wrong spirit shall beat and abuse you, though it may not be seen by them nor appear to them, yet if revenge rise in your hearts, and ye desire evil in your hearts against them, thats the same spirit, so beware of it, if at any time I have felt any thing of this revengeful Spirit in me what a weight has it brought in me. the La<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Christ is in my heart has secretly taken hold of it, and judged it and told me in secret that I should not have let such a thought into my heart, but feeling his spirit that said love, and forgive and pray for enemies, in my heart leading to do so from my heart in that sight of God, ah then secret joy peace and contentment, so wherever that spirit is let in that would and doth save self, and makes cowardly and fearful and makes to sink. O take heed and beware, least the Lord altogether depart, but shrink let all such sink down to that which remains a witness for God, and there wait to feel Judgement upon the evil spirit and to judge it out and its fruit, and if it be but yet in secret, prevailing with thee within, begetting con<g ref="char:EOLhyphen"/>sultings if thou judge it not, it will break out it cannot stand there, so all mind the fear of God, that therein ye may be preserved, for truly this hath lain heavy upon me to write as I have written, there being a sence in my heart of the enemies subtlety against us this day. who by several ways works against us, so the Lord by his grace preserve the faithful and bring such to be faithful who are not.</p>
+            <closer>
+               <signed>Your friend Patrick Livingstone.</signed>
+               <dateline>
+                  <hi>From the Prison by Newgate</hi>
+                  <date>
+                     <hi>the</hi> 7th. <hi>of the</hi> 10 <hi>month,</hi> 1670.</date>
+               </dateline>
+            </closer>
+            <trailer>THE AND,</trailer>
+            <pb facs="tcp:31798:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
